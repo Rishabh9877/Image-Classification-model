@@ -1,0 +1,9 @@
+# Ignore data
+data/
+*.jpg
+*.png
+*.csv
+
+# Ignore Jupyter/Python cache
+.ipynb_checkpoints/
+__pycache__/
