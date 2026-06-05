@@ -60,3 +60,8 @@ The pipeline evaluates the Intel Image Classification dataset. To replicate the 
     └── seg_pred/
 
 ```
+
+
+
+
+Project and Data link: 
